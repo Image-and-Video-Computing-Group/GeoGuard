@@ -87,9 +87,7 @@
 ]
 ```
 ### 📹 功能演示
-<video width="320" height="240" controls> 
-  <source src="demo.mp4" type="video/mp4"> 
-</video> 
+[演示视频请点这里👇](https://pan.baidu.com/s/1mW-BWXSNmFqaN_OAbTd3zw?pwd=6666)
 
 ### 🕰️ 灾害历史查询模块
 > 亟待更新
