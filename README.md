@@ -94,4 +94,4 @@
 - [**2025.05.10**] 🎉 GeoGuard v1.0 正式发布；  
 
 
-更多信息请关注我们的 [GitHub 开源地址](https://github.com/whu-rs/GeoGuard) 🌍，欢迎 Star 与 Fork 🙌
+更多信息欢迎联系chinahuping@gmail.com
