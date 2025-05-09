@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/eebcba51-5530-454f-9ced-571b0ca08215)![image](https://github.com/user-attachments/assets/16efbce5-933d-4db7-bc6b-8df54e245ed9)
 <div align="left"> 
 <h1>山川智护GeoGuard 灾害应急智能体</h1> 
 </div> 
