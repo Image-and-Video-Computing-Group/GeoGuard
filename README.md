@@ -94,4 +94,4 @@
 - [**2025.05.10**] 🎉 GeoGuard v1.0 正式发布；  
 
 
-更多信息欢迎联系geogaurd@outlook.com
+更多信息欢迎联系geoguard@outlook.com
